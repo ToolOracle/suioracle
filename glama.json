@@ -1,17 +1,11 @@
 {
   "name": "SuiOracle",
-  "description": "9 MCP tools for DeFi risk and compliance intelligence on Sui",
-  "version": "1.0.0",
+  "description": "Sui Move intelligence for AI agents — objects, validators, epoch data, DeFi TVL, yields via MCP",
+  "repository": "https://github.com/ToolOracle/suioracle",
+  "endpoint": "https://tooloracle.io/sui/mcp/",
+  "health": "https://tooloracle.io/sui/health",
   "tools": 9,
-  "category": "blockchain",
-  "tags": [
-    "sui",
-    "defi",
-    "risk",
-    "compliance",
-    "mcp"
-  ],
-  "author": "FeedOracle Technologies",
   "license": "MIT",
-  "homepage": "https://tooloracle.io"
+  "author": "FeedOracle Technologies",
+  "tags": ["sui", "mcp", "ai-agent", "tooloracle"]
 }
