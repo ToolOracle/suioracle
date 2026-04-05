@@ -1,0 +1,11 @@
+{
+  "schema_version": "v2.0.0",
+  "name": "io.tooloracle/suioracle",
+  "description": "SuiOracle \u2014 Sui network intelligence: TVL, protocol health, gas tracker, token risk. 9 tools.",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://tooloracle.io/sui/mcp/"
+    }
+  ]
+}
