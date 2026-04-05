@@ -1,0 +1,5 @@
+name: SuiOracle
+description: Sui network intelligence — 9 tools
+endpoint: https://tooloracle.io/sui/mcp/
+transport: streamable-http
+license: MIT
